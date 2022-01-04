@@ -1,0 +1,21 @@
+body {
+  background-color: #C8C6C6;
+}
+
+h1 {
+  color: #F7F6F2;
+  font: 50px "Book Antiqua";
+  font-style: italic;
+}
+
+.bacon {
+  background-color: #4B6587;
+}
+
+.broccoli {
+  background-color: #F0E5CF;
+}
+
+#heading {
+  color: #4B6587;
+}
